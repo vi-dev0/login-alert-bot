@@ -33,10 +33,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Login Alert Bot</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    A simple Bash shell script to send messages to Telegram messenger using the Curl command. Then you will use this script to send a notification on every ssh login into your server.
     <br />
     <br />
     <a href="https://github.com/vi-dev0/login-alert-bot/issues/new?assignees=&labels=bug&template=bug-report---.md">Report Bug</a>
