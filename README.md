@@ -138,7 +138,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Mr Vi - [@vi_dev0](https://twitter.com/vi_dev0)
 
-Project Link: [Logn Alert Bot](https://github.com/vi-dev0/login-alert-bot)
+Project Link: [Login Alert Bot](https://github.com/vi-dev0/login-alert-bot)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
