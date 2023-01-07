@@ -156,5 +156,5 @@ Project Link: [Login Alert Bot](https://github.com/vi-dev0/login-alert-bot)
 [license-shield]: https://img.shields.io/github/license/vi-dev0/login-alert-bot.svg?style=for-the-badge
 [license-url]: https://github.com/vi-dev0/login-alert-bot/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://www.linkedin.com/company/85617305
 [product-screenshot]: images/screenshot.png
